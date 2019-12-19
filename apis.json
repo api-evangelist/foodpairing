@@ -1,0 +1,72 @@
+{
+    "name": "Foodpairing",
+    "description": "<p>Discover exciting pairings in seconds with Foodpairing technology. Access world's biggest ingredient database and get inspired with novel combinations for your recipes.&nbsp;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/foodpairing_roos.png",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/foodpairing\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Foodpairing",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/foodpairing_roos.png",
+            "humanURL": "http:\/\/www.foodpairing.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/foodpairing-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.foodpairing.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/foodpairing-com-2"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.foodpairing.com"
+        },
+        {
+            "type": "Email",
+            "url": "cfi@foodpairing.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@foodpairing.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@foodpairing.com"
+        },
+        {
+            "type": "Curated Source",
+            "url": "https:\/\/www.foodpairing.com\/en\/international-api-evangelist-san-francisco"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/foodpairing.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/foodpairing"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/foodpairing.com"
+        }
+    ]
+}
